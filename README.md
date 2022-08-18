@@ -1,5 +1,5 @@
 # Lab1
-## Start a project
+### Start a project
 ## Initialize a Node.js package
 ## Create a Node.js script
 ## Create a web application using the Express package
