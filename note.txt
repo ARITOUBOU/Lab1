@@ -1,0 +1,11 @@
+1###Demarrage du projet
+-First we have to create a repository in Git
+-Then Clone the repository to our local desktop
+-Use CLI bash command to get into your repository, exemple "cd ~/path/to/your-root-project-directory "
+-Create a new repertory for exemple " mkdir myschool-devops-myproject"
+-Initialiser un depot git dans le repertoire creer "git init"
+
+2####Initialiser un package Node.js
+-First initialiser/Créer un package Node.js " npm init -y"
+ vous pouver modifier manuellement par exemple "author, description"
+-Executer le script npm " npm run test" ou "npm test"
